@@ -10,7 +10,10 @@ problemas de usabilidade no sistema.
 • Documentação dos Problemas: Para cada problema detectado:
 
   - Apresente a heurística violada.
-  - 
   - Indique o grau de severidade do problema.
-  - 
   - Descreva o impacto do problema na usabilidade do sistema.
+
+Issues no GitHub:
+- Crie issues para cada problema de usabilidade encontrado.
+- Inclua detalhes sobre a heurística violada, o grau de severidade e uma descrição completa do
+problema.
