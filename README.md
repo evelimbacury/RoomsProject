@@ -2,7 +2,7 @@
 Este projeto é uma solução para a criação de ensalamento dinâmico na universidade, com foco em melhorar a alocação de salas e horários para as disciplinas por meio de uma aplicação web e inteligencia artificial, 
 otimizando o uso dos espaços físicos e melhorando o desempenho acadêmico.
 
-![Página inicial Rooms](https://drive.google.com/file/d/1XYRpEdR9T4TrSNhrawT-PK6PKaSjLH5l/view)
+[![Página inicial Rooms](https://drive.google.com/file/d/1XYRpEdR9T4TrSNhrawT-PK6PKaSjLH5l/view)](https://drive.google.com/file/d/1XYRpEdR9T4TrSNhrawT-PK6PKaSjLH5l/view?usp=sharing)
 
 ## Introdução
 Este projeto foi desenvolvido para automatizar o processo de ensalamento na Universidade Federal do Amazonas, substituindo o método manual de uso de tabelas no Excel por uma solução mais eficiente utilizando tecnicas de aprendizado de maquina. A proposta é reduzir o tempo gasto na preparação e ajustes, proporcionando uma melhor organização dos horários e salas disponíveis para professores e alunos.
