@@ -17,7 +17,7 @@ Este projeto foi desenvolvido para automatizar o processo de ensalamento na Univ
   ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/vnsantoxs/RoomsProject.git
 2. Instale as dependências do projeto:
    ```bash
    pip install -r requirements.txt
